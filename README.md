@@ -2,10 +2,18 @@
 Python: Robotic Navigation  Reading Signs Using Computer Vision Method.
 
 **Programmer:** Muhammad Hafidz Misrudin, N8448141.
+
+
 **Method used:** Feature Matching using SIFT/Orb descriptors.
+
+
 **OPENCV versions:** 2.4.11 or higher and 3.0.
  - Required an OPENCV library and additional (image processing) packages in order to perform the tasks.
+
+
 **Last developed/tested:** Friday 23rd October 2015.
+
+
 **Last updated:** Monday 2nd November 2015.
 
 
